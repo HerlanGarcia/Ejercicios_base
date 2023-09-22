@@ -1,0 +1,1 @@
+console.log("Mensaje para consola");
